@@ -1,0 +1,1 @@
+arn:aws:iam::988105863901:role/cloudformation-lambda-execution-role
